@@ -28,7 +28,7 @@
 
 #### 여러분의 실력을 마음껏 펼쳐보세요
 
-<img src="./pm_12th" width="500px">
+<img src="./pm_12th.jpg" width="500px">
 
 <br>
 
@@ -69,11 +69,11 @@ ctrl + c
     <td align="center">승주</a></td>
   </tr>
   <tr width="100%">
-  <td align="center"><img src="pm_12th.png" alt="image" border="0" width="90px"></td>
-  <td  align="center"><img src="pm_12th.png" alt="image" border="0" width="90px"></td>
-  <td  align="center"><img src="pm_12th.png" alt="image" border="0" width="90px"></td>
-    <td  align="center"><img src="pm_12th.png" alt="image" border="0" width="90px"></td>
-  <td  align="center"><img src="pm_12th.png" alt="image" border="0" width="90px"></td>
+  <td align="center"><img src="pm_12th.jpg" alt="image" border="0" width="90px"></td>
+  <td  align="center"><img src="pm_12th.jpg" alt="image" border="0" width="90px"></td>
+  <td  align="center"><img src="pm_12th.jpg" alt="image" border="0" width="90px"></td>
+    <td  align="center"><img src="pm_12th.jpg" alt="image" border="0" width="90px"></td>
+  <td  align="center"><img src="pm_12th.jpg" alt="image" border="0" width="90px"></td>
   </tr>
   <tr width="100%">
   <td  align="center">기획/디자인</td>
