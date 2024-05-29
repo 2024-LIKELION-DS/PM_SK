@@ -1,23 +1,3 @@
-# PM_SK
----
-## 서비스 개요
-덕성여자대학교 멋쟁이사자처럼 12기 기획디자인 아기사자들 화이팅!
-여러분을 응원합니다. **진, 은지, 경민, 승주** 아자아자 화이팅!
-
-> 응원하는 방법
->> 1. 세션 일찍 끝내주기
->> 2. 스터디 일찍 끝내주기
->> 3. 과제 잘 못해도 혼내지 않기
-
-## 사용 스택
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=HTML5&logoColor=white">
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=HTML5&logoColor=white">
-
-
 # [과제 예시] 2024 멋쟁이사자처럼 12th : 6차 세션 Read.md 문서 작성법 배우기
 
 ## 서비스 소개
@@ -116,19 +96,13 @@ ctrl + c
 
 ## 화면 구성
 
-<img src="./images/face/12.png">
-<img src="./images/face/13.png">
-<img src="./images/face/14.png">
-<img src="./images/face/15.png">
+<img src="./pm_12th.jpg">
 
 <br>
 
 ## API 명세서
 
-<img width="1203" alt="KakaoTalk_20230715_054643346" src="https://github.com/2023-HERETHON/2023-Herethon-12/assets/126054466/8b8810fe-4f9f-4b2a-b96e-caeb30feff90">
-
-<img width="1210" alt="KakaoTalk_20230715_054710869" src="https://github.com/2023-HERETHON/2023-Herethon-12/assets/126054466/3f146f7e-4169-40b4-b9e8-5d3a266c94fe">
-
+<img width="1203" alt="pm_12th_likelion" src="./pm_12th.jpg">
 <br>
 
 ## 폴더 구조
